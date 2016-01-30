@@ -1,0 +1,27 @@
+p {
+	margin:10px;
+	padding: 10px;
+
+}
+
+h1 {
+	color: blue;
+	padding: 10px;
+}
+
+img {
+	position: absolute;
+}
+
+div {
+	position: absolute;
+}
+#leftSide, #rightSide {
+	width: 500px;
+	height: 500px;
+}
+
+#rightSide {
+	left: 500px;
+	border-left: 1px solid black;
+}
